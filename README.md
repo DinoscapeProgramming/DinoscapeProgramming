@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on new projects
 - 📫 You can send me an email
 
-![](https://github.com/DinoscapeProgramming/github-stats/blob/master/generated/languages.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinoscapeProgramming)](https://github.com/anuraghazra/github-readme-stats)
