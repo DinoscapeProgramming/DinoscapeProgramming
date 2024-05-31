@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Remote Control](https://github.com/DinoscapeProgramming/Remote-Control)<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with [Remote Control](https://github.com/DinoscapeProgramming/Remote-Control)<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about Electron and robotjs
+🔭 I’m currently working on [Remote Control](https://github.com/DinoscapeProgramming/Remote-Control)<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with [Remote Control](https://github.com/DinoscapeProgramming/Remote-Control)<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about Electron and socket.io
 
 
 # 💻 Tech Stack:
